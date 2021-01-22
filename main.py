@@ -1,5 +1,5 @@
 
-#  Road Lane Line Detection with OpenCV (Part 3)
+#  Road Lane Line Detection with OpenCV
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
